@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+.campo{
+    margin: 24px 0;
+}
+
+.campo label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.campo input{
+    background-color: transparent;
+    box-shadow: 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 24px;
+    font-size: 24px;
+    box-sizing: border-box;
+    border-bottom: 3px solid #76d878;
+    font-family: 'Signika', sans-serif;
+
+
+}
+.campo-color input{
+    padding: 0px 40px;
+    cursor: pointer;
+    height: 40px;
+}

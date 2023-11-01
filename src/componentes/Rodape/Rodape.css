@@ -1,0 +1,26 @@
+footer {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(/public/imagens/rodape.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.logoRodape {
+    width: 250px;
+}
+
+.redesSociais {
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+.redesRodape {
+    width: 50px;
+    margin: 10px;
+}

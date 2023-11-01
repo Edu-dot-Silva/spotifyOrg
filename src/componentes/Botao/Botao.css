@@ -1,0 +1,24 @@
+.botao {
+    background-color: #1DB954;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    transition: all ease-in-out 0.1s;
+    margin: 32px 0;
+    width: 200px;
+    
+}
+
+
+.botao:hover {
+    transform: scale(0.9);
+    background-image: url(/public/imagens/add.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:95%;
+    background-size: 30px;
+}

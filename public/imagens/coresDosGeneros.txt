@@ -1,0 +1,8 @@
+Pop - primaria: #40e0d0 secundaria: #31b6a8
+rock - primaria: #727272 secundaria: #393939
+rap - primaria: #fbd756 secundaria: #c2a52b
+eletronica - primaria:#1104fc secundaria: #3e25fc
+rnb - primaria: #771d76 secundaria: #591659
+reggaeton - primaria: #fca620 secundaria: #dc8c18
+country - primaria: #804a43 secundaria: #703c36
+
